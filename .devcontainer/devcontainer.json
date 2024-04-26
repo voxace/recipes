@@ -1,0 +1,16 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "extensions": [
+
+        "esbenp.prettier-vscode",
+
+        "tinkertrain.theme-panda",
+
+        "codespaces-contrib.codeswing",
+
+        "streetsidesoftware.code-spell-checker"
+
+    ]
+}

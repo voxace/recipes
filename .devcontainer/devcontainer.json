@@ -3,14 +3,10 @@
   "features": {
   },
   "extensions": [
-
-        "esbenp.prettier-vscode",
-
-        "tinkertrain.theme-panda",
-
-        "codespaces-contrib.codeswing",
-
-        "streetsidesoftware.code-spell-checker"
-
-    ]
+    "esbenp.prettier-vscode",
+    "tinkertrain.theme-panda",
+    "codespaces-contrib.codeswing",
+    "streetsidesoftware.code-spell-checker",
+    "blackgirlbytes.deploy-to-github-pages"
+  ]
 }
